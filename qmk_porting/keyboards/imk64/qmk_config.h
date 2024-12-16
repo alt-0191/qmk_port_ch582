@@ -53,7 +53,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define RGB_MATRIX_DEFAULT_MODE RGB_MATRIX_SOLID_REACTIVE
 #define RGBLED_NUM                    69
 #define RGB_MATRIX_LED_COUNT          RGBLED_NUM
-#define RGB_MATRIX_MAXIMUM_BRIGHTNESS 225
+#define RGB_MATRIX_MAXIMUM_BRIGHTNESS 190
 #define RGB_MATRIX_STARTUP_VAL        RGB_MATRIX_MAXIMUM_BRIGHTNESS
 #define RGB_MATRIX_HUE_STEP           10
 #define RGB_MATRIX_SAT_STEP           8
